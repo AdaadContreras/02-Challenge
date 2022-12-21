@@ -1,9 +1,9 @@
-# Module-1 Challenge
+# Horiseon Module-1
 Updated codebase to follow accessebility standards.
 
 
 ## Description
-Website structure on HTML was editied to meet accessebility standards.
+HTML and CSS were updated for Horiseon website structure to make user expierence more beneficial and to give it a more organized look.
 
 Changes made to website go as follow:
  - Edited to find semantic HTML elements.
